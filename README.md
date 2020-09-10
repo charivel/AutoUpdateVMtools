@@ -5,4 +5,4 @@ L'objectif de ce script PowerCLI est de fournir 3 fonctions pour:
 - activer la mise à jour automatique des vmtools sur vos VMs à chaque reboot
 - désactiver la mise à jour automatique des vmtools sur vos VMs à chaque reboot
 
-s
+
